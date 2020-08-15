@@ -1,1 +1,1 @@
--novid -exec autoexec.cfg
+-novid -freq 144 -console +fps_max 0 -exec autoexec.cfg
