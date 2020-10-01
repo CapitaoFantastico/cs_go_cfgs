@@ -1,1 +1,2 @@
--novid -freq 144 -console +fps_max 0 -exec autoexec.cfg
+-novid -freq 144 -console +fps_max 0  -exec autoexec.cfg
+-novid -freq 144 -allow_third_party_software 1 -exec autoexec.cfg
